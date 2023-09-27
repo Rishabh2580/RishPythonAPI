@@ -4,7 +4,7 @@ public class Array{
 	public static void main(String[]args)
 	{
 		
-		int arr[]= {10,10,20,30,40,10};
+		int arr[]= {1,2,2,3,5};
 		
 LinkedHashSet<Integer> r = new LinkedHashSet<Integer>();
 
