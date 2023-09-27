@@ -1,1 +1,25 @@
+public class Array{
+	
+	
+	public static void main(String[]args)
+	{
+		
+		int arr[]= {10,10,20,30,40,10};
+		
+LinkedHashSet<Integer> r = new LinkedHashSet<Integer>();
+
+for(int num :arr)
+{
+	
+	
+	
+	
+	r.add(num);
+}
+
+System.out.println(r);
+
+
+	}
+}
 
